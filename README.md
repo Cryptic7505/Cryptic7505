@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A Game <br>🤝 I’m looking for help with Back End Development<br>🌱 I’m currently learning Back End and App development<br>
+🔭 I’m currently working on A Game <br>🤝 I’m looking for help with Back End Development<br>🌱 I’m currently learning Back End and App development<br> 👯 I’m looking to collaborate on Game Development<br> 📝 mostly private repos
 
 
 ## 🌐 Socials:
