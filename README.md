@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on A Game <br>🤝 I’m looking for help with Back End Development<br>🌱 I’m currently learning Back End and App development<br> 👯 I’m looking to collaborate on Game Development<br> 📝 mostly private repos
-
-
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/cryptic7505.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ralphgeoffreymarcos7505) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@cryptic.7505@@) 
 
